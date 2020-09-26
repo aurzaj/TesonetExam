@@ -1,0 +1,7 @@
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\bin\Debug\aurimas.zajanckovskis.exe.config
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\bin\Debug\aurimas.zajanckovskis.exe
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\bin\Debug\aurimas.zajanckovskis.pdb
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\obj\Debug\aurimas.zajanckovskis.csprojAssemblyReference.cache
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\obj\Debug\aurimas.zajanckovskis.csproj.CoreCompileInputs.cache
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\obj\Debug\aurimas.zajanckovskis.exe
+C:\Users\aurim\source\repos\aurimas.zajanckovskis\aurimas.zajanckovskis\obj\Debug\aurimas.zajanckovskis.pdb
